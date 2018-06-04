@@ -1,5 +1,5 @@
 {
-  "name": "org",
+  "name": "orgpr",
   "description": "A parser and converter for org-mode notation",
   "homepage": "http://mooz.github.com/org-js",
   "bugs": "http://github.com/mooz/org-s/issues",
@@ -19,7 +19,7 @@
     }
   ],
   "main": "./lib/org.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "directories": {
     "test": "./tests"
   },
