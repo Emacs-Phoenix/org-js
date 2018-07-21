@@ -19,7 +19,7 @@
     }
   ],
   "main": "./lib/org.js",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "directories": {
     "test": "./tests"
   },
